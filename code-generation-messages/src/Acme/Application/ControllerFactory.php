@@ -7,6 +7,10 @@ use Acme\Application\OnlineShop\ProductsController;
 /**
  * @copyright Marijn Huizendveld 2018. All rights reserved.
  */
+
+ /**
+ * test comment
+ */
 final class ControllerFactory {
 
     private $dependencies;
